@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ダイアリー",
+  "base_artist": "Soushi Sakiyama",
+  "createdAt": "2025-12-28T09:46:41.693575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハプニング☆ダイアリー",
+      "artist": "幸田夢波",
+      "has_synced": false,
+      "path": "select/01_ハプニング☆ダイアリー_幸田夢波.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダイアリー",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/02_ダイアリー_ClariS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジェリービーンズ?ダイアリー (Like Cover Girl)",
+      "artist": "伊藤美来 & 豊田萌絵",
+      "has_synced": false,
+      "path": "select/03_ジェリービーンズ_ダイアリー_(Like_Cover_Girl)_伊藤美来_&_豊田萌絵.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダイアリー",
+      "artist": "Kra",
+      "has_synced": false,
+      "path": "select/04_ダイアリー_Kra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハプニング☆ダイアリー (Off Vocal)",
+      "artist": "幸田夢波",
+      "has_synced": false,
+      "path": "select/05_ハプニング☆ダイアリー_(Off_Vocal)_幸田夢波.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ホワイト・ダイアリー (feat. 初音ミク)",
+      "artist": "Reku Mochizuki",
+      "has_synced": true,
+      "path": "select/06_ホワイト・ダイアリー_(feat._初音ミク)_Reku_Mochizuki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダイアリー",
+      "artist": "松浦亜弥",
+      "has_synced": true,
+      "path": "select/07_ダイアリー_松浦亜弥.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダイアリー",
+      "artist": "Soushi Sakiyama",
+      "has_synced": false,
+      "path": "select/pl_01_ダイアリー_Soushi_Sakiyama.txt"
+    }
+  ]
+}
